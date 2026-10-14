@@ -15,32 +15,31 @@ git clone https://github.com/Nihar-Shah2001/dsa-notes.git
 
 | Hub | What it covers |
 |---|---|
-| [Map of Patterns](Map%20of%20Patterns.md) | Every pattern in study order, from arrays to dynamic programming, with progress checkboxes |
-| [STL Map](STL%20Map.md) | C++ Standard Template Library containers, algorithms and iterators |
+| [Map of Patterns](Map%20of%20Patterns.md) | Pattern notes written so far, grouped by topic in study order |
+| [STL Map](STL/STL%20Map.md) | C++ Standard Template Library containers, algorithms and iterators |
 
 ## Notes written so far
 
 **Patterns**
-- [Running Minimum](Patterns/Running%20Minimum.md)
+- [Maximum Difference](Patterns/Maximum%20Difference.md)
 
 **STL**
-- [vector](STL/vector.md)
+- [Sequence Containers](STL/Sequence%20Containers.md)
+- [CPP STL Reference](STL/CPP%20STL%20Reference.md): links to the cppreference containers and algorithms pages
 
 ## Folders
 
 | Folder | Contents |
 |---|---|
-| [Patterns/](Patterns) | One note per pattern: recognition cues, approach, proof, C++ code, dry run, related problems |
-| [STL/](STL) | One note per STL container or algorithm: operations, complexity, pitfalls, idioms |
-| [Templates/](Templates) | Note templates for Obsidian's core Templates plugin |
-| [Attachments/](Attachments) | Images embedded in notes |
+| [Patterns/](Patterns) | One note per problem: approach, correctness, pattern recognition, C++ code, complexity, dry run, mistakes |
+| [STL/](STL) | Notes on C++ STL containers and algorithms, plus the STL Map hub |
+| [Templates/](Templates) | The Problem note template for Obsidian's core Templates plugin |
 
 ## Adding a note
 
-1. Create the note from a template in `Templates/` (**Pattern** or **STL Concept**).
-2. Save it in the matching folder (`Patterns/` or `STL/`).
-3. Fill in its prerequisite, related and next-concept links.
-4. Tick it in [Map of Patterns](Map%20of%20Patterns.md), or link it from [STL Map](STL%20Map.md), and add it to the list above.
+1. For a problem, create the note from `Templates/Problem.md` and save it in `Patterns/`. STL notes go in `STL/`.
+2. Fill in its pattern, topics, prerequisite, related and next-concept links.
+3. Add it to [Map of Patterns](Map%20of%20Patterns.md) under its topic, or link it from [STL Map](STL/STL%20Map.md), and add it to the list above.
 
 ## License
 

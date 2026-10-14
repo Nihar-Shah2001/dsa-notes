@@ -5,11 +5,10 @@ tags: [stl, hub]
 ---
 # STL Map
 
-Hub for the C++ Standard Template Library notes. Create each note from `Templates/STL Concept.md` and keep it in the `STL/` folder. Hub for patterns: [[Map of Patterns]].
+Hub for the C++ Standard Template Library notes. Create each note from `Templates/Problem.md` and keep it in the `STL/` folder. Hub for patterns: [[Map of Patterns]].
 
 ## Container member function table
-![[stl-container-member-functions.png]]
-The picture shows only the left part of the table. The full, current table is on cppreference: [Containers library](https://en.cppreference.com/w/cpp/container) (scroll to "Member function table").
+The full, current table is on cppreference: [Containers library](https://en.cppreference.com/w/cpp/container) (scroll to "Member function table").
 
 ## Containers
 - **Sequence:** [[vector]], [[deque]], [[list]], [[forward_list]], [[array]], [[string]]
