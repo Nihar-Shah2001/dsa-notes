@@ -20,7 +20,7 @@ The topic-wise order for the whole journey. Each link is a pattern note to write
 ## Arrays
 
 **Running aggregates**
-- [ ] [[Running Minimum]]
+- [x] [[Running Minimum]]
 - [ ] [[Prefix Sum]]
 - [ ] [[Difference Array]]
 - [ ] [[Kadane's Algorithm]]
